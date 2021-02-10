@@ -1,0 +1,42 @@
+Velagapudi Ramakrishna Siddhartha Engineering CollegeDepartment of Information Technology
+Class: 3rdYear Section: A Year: 2020-2021
+ Faculty Course Assessment Report(FCAR)
+Motivation:
+In VRSEC, each course will be assessed by 5 types (A1, S1, A2, S2, F). It is a tedious task to the faculty to assess the course they have dealt. 
+
+
+Problem Description:
+•	A student's performance will be assessed by the marks attained. Similarly every
+Course performance has to be assessed. For any course (educational) there
+Will be a process and we need to check whether the student is been able to
+Reach above the given thresholds (fixed).
+Social Benefits:
+•	Helps the teaching faculty to check the attainment levels for the courses they have delivered.
+•	It is an effective and efficient tool used to bring together all relevant course related information and blend into a single document.
+•	It reflects on the part of instructor as to what was effective, and suggestions for further improvements. 
+
+Innovation and Uniqueness:
+•	Developing complete end to end web application by using modern python framework Djangowhich gives an effective outcome.
+•	The assessment process measures the performance criteria using the appropriate instruments that were selected by the coordinators.
+
+
+Feasible Solution:
+•	Data is collected from the relevant performance criterion using the appropriate instruments, and reported through an online system or through a standard and simple form that documents the process.
+•	The FCAR includes a header, grades distribution, program outcome assessment, student feedback, reflection, and proposed actions for course improvement.
+
+
+Team Members:
+
+
+ROLL NUMBER	NAME	EMAIL-ID	PHONE NUMBER
+188W1A1228	K Manohardatt	188w1a1228@vrsiddhartha.ac.in	9553241727
+188W1A1243	Y Raja Ramesh 	188w1a1243@vrsiddhartha.ac.in	9581176666
+188W1A1247	S Y Bharath	188w1a1247@vrsiddhartha.ac.in	7569269637
+188W1A1252	T M Datta	188w1a1252@vrsiddhartha.ac.in	9492037992
+
+									
+									
+								
+  [FACULTY GUIDE]
+
+
